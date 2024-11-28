@@ -22,15 +22,16 @@
 
 ### 🌟 Mis proyectos destacados
 1. **[Parte Front de mi proyecto final en DAW](https://front-vtes.vercel.app/)**
-**[Por si quieres consultar el backend](https://github.com/whejhe/vtes-backend)**
-   Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas.
-   ### Tecnologías utilizadas  
-- **Frontend:** Angular  
-- **Backend:** Node.js y MongoDB  
-- **Otros:** Bootstrap para estilos.  
+2. **[Por si quieres consultar el backend](https://github.com/whejhe/vtes-backend)**
+    Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas.
+    Tecnologías utilizadas
+
+    Frontend: Angular
+    Backend: Node.js y MongoDB
+    Otros: Bootstrap para estilos.
    <img src="img/vtes.png" alt="Captura de mi appVtes">
    
-2. **[Portafolio](https://portafolios-blond.vercel.app/)**  
+3. **[Portafolio](https://portafolios-blond.vercel.app/)**  
    Aún esta construcción... 
    <img src="img/portafolio.png" alt="Captura de portafolio">
 
