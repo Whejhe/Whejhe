@@ -24,9 +24,9 @@
    Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas, construida con Angular y Node.  
    <img src="img/vtes.png" alt="Captura de mi appVtes">
    
-2. **[Sitio de Recetas](https://github.com/tuusuario/recetas-app)**  
-   Una plataforma para compartir recetas, desarrollada con Angular y Firestore.  
-   <img src="https://via.placeholder.com/400x200" alt="Captura del sitio de recetas">
+2. **[Portafolio](https://portafolios-blond.vercel.app/)**  
+   Aún esta construcción... 
+   <img src="img/portafolio.png" alt="Captura de portafolio">
 
 ---
 
