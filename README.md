@@ -22,7 +22,7 @@
 
 ### 🌟 Mis proyectos destacados
 1. **[Parte Front de mi proyecto final en DAW](https://front-vtes.vercel.app/)**
-2. **[Por si quieres consultar el backend](https://github.com/whejhe/vtes-backend)**
+1. **[Por si quieres consultar el backend](https://github.com/whejhe/vtes-backend)**
     Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas.
     Tecnologías utilizadas
 
@@ -71,12 +71,8 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=whejhe&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=whejhe&layout=compact&theme=radical)
 ![Streak de GitHub](https://streak-stats.demolab.com/?user=whejhe&theme=radical)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=whejhe&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### 🌟 Lo que dicen sobre mí
-> *"Carlos tiene un enfoque innovador y resuelve problemas de forma eficaz."*  
-> – Juan Pérez, colega de equipo
 
 ---
 
