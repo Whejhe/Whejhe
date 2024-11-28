@@ -13,6 +13,7 @@
 ---
 
 ### 📅 Mi viaje como desarrollador
+- **2019:** Realice el ciclo de Grado Medio en Microinformatica y Redes.
 - **2021:** Comencé mis estudios en Desarrollo de Aplicaciones Web.
 - **2024:** Me matricule en Desarrollo de Aplicaciones Multiplataforma para ampliar mis conocimientos.
 - **2025:** Planifico contribuir a proyectos de código abierto y mejorar mi portafolio profesional.
@@ -22,7 +23,11 @@
 ### 🌟 Mis proyectos destacados
 1. **[Parte Front de mi proyecto final en DAW](https://front-vtes.vercel.app/)**
 **[Por si quieres consultar el backend](https://github.com/whejhe/vtes-backend)**
-   Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas, construida con Angular y Node.  
+   Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas.
+   ### Tecnologías utilizadas  
+- **Frontend:** Angular  
+- **Backend:** Node.js y MongoDB  
+- **Otros:** Bootstrap para estilos.  
    <img src="img/vtes.png" alt="Captura de mi appVtes">
    
 2. **[Portafolio](https://portafolios-blond.vercel.app/)**  
