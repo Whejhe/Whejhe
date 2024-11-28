@@ -20,7 +20,8 @@
 ---
 
 ### 🌟 Mis proyectos destacados
-1. **[Parte Front de mi proyecto final en DAW](https://front-vtes.vercel.app/)**  
+1. **[Parte Front de mi proyecto final en DAW](https://front-vtes.vercel.app/)**
+**[Por si quieres consultar el backend](https://github.com/whejhe/vtes-backend)**
    Una aplicación para gestionar la creacion de mazos, torneos y cartas pesonalizadas, construida con Angular y Node.  
    <img src="img/vtes.png" alt="Captura de mi appVtes">
    
@@ -38,6 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio">
 </div>
 
 ---
